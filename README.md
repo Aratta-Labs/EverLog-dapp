@@ -1,3 +1,6 @@
+TODO: add the right README lol
+
+
 <div align="center">
     <h1>🆙Card</h1>
 </div>
