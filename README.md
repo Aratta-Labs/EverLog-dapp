@@ -10,7 +10,7 @@ TODO: add the right README
 </div>
 
 <div align="center">
-    <h2>About UPcard</h2>
+    <h2>About EverVote</h2>
 </div>
 
 
